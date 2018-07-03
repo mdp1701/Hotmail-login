@@ -32,4 +32,8 @@ MSN Hotmail login page
 
 MSN Hotmail sign in box
 
-If you make **Hotmail login** from your personal computer, check the small box “Keep me signed in” under the password box . By check “Keep me signed in”, your computer will remember your login for next time, so you needn’t to enter your Hotmail login information every time you connect email. But if other people have access to your computer, it is recommended not to check “Keep me signed in”. **Step 3:** Click on “Sign in” button and you are directed to the Hotmail home page, where you can manage your Hotmail email. **Step 4:** If your sign in fails, it means that either your Hotmail email or password is wrong. So check them both and re-enter. Even then, you can not connect, you should [reset the password](https://technsolution.com/hotmail-password-reset/ "Solution Change Password")
+If you make **Hotmail login** from your personal computer, check the small box “Keep me signed in” under the password box . By check “Keep me signed in”, your computer will remember your login for next time, so you needn’t to enter your Hotmail login information every time you connect email. But if other people have access to your computer, it is recommended not to check “Keep me signed in”. 
+
+**Step 3:** Click on “Sign in” button and you are directed to the Hotmail home page, where you can manage your Hotmail email. 
+
+**Step 4:** If your sign in fails, it means that either your Hotmail email or password is wrong. So check them both and re-enter. Even then, you can not connect, you should [reset the password](https://technsolution.com/hotmail-password-reset/ "Solution Change Password")
