@@ -22,13 +22,9 @@ Hotmail login is necessary for the day to day Outlook.com users, Skype users, 
 
 **Step 1:** Click on your browser (explorer Chrome/Firefox/Internet/Opera, etc) and type hotmail login page _[www.hotmail.com](https://login.live.com/ "www.hotmail.com"),_ it will automatically redirect you to the **Hotmail home page** that is now https://outlook.live.com.
 
-![MSN Hotmail login page](https://mailtips.info/wp-content/uploads/2015/12/Hotmail-login-page.jpg)
-
 MSN Hotmail login page
 
 **Step 2:** Type your Hotmail email account in the hotmail sign in box in which you are asked Microsoft account. Remember all Hotmail accounts, outlook.com account and **live accounts **are Microsoft account. And in the password part, enter your password.
-
-![Hotmail sign in box](https://mailtips.info/wp-content/uploads/2015/12/Hotmail-sign-in-box.jpg)
 
 MSN Hotmail sign in box
 
