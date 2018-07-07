@@ -1,7 +1,7 @@
 # Hotmail-login
 You can't Hotmail sign in? You login Hotmail but ALL MAILBOX, ADDRESS, OLD MAIL does not exist. www.hotmail.com Go to Mailtips.info. 
 
-**[Hotmail sign in](https://mailtips.info/hotmail-sign-in-hotmail-login/ "Hotmail sign in")** or **MSN Hotmail login** can be done through Microsoft outlook.com or Microsoft live.com to check Hotmail email account. Microsoft Outlook.com is an email service basing on the Web for free run by Microsoft.
+**[Hotmail sign in](https://hotmailsigninbox.com/hotmail-sign-in-hotmail-login/ "Hotmail sign in")** or **MSN Hotmail login** can be done through Microsoft outlook.com or Microsoft live.com to check Hotmail email account. Microsoft Outlook.com is an email service basing on the Web for free run by Microsoft.
 
 _Hotmail.logins.help_ gives easy steps to access your Hotmail account for free and helps the problem may be associated with Hotmail email. To access your Hotmail email, please follow the Hotmail **login process** explained below in simple steps. Hotmail login fomalities are simple and can be completed within a few minutes.
 
@@ -12,7 +12,7 @@ Overview msn hotmail outlook account
 
 Hotmail home page allows you to connect to your **_Hotmail email _account**. It also allows you to sign in to window, Microsoft Office, Windows Phone, Xbox, Skype, MSN, Bing, Microsoft store and OneDrive. At Hotmail home page, you will get outlook icon as windows Hotmail is converted to outlook.com. You must have Hotmail ID or Hotmail **live email** ID for Hotmail login.
 
-If you use Outlook from your computer or via _[Hotmail mobile](https://technsolution.com/tag/hotmail/ "Hotmail Mobile Phone -Hotmail")_ application, you can set it to remember, so you won't need to enter your Hotmail username and password  all the time.
+If you use Outlook from your computer or via _[Hotmail mobile](https://hotmailsigninbox.com/tag/hotmail-outlook/ "Hotmail Mobile Phone -Hotmail")_ application, you can set it to remember, so you won't need to enter your Hotmail username and password  all the time.
 
 Hotmail login is necessary for the day to day Outlook.com users, Skype users,  Microsoft or MSN users.
 
